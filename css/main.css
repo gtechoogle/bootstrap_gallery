@@ -1,0 +1,9 @@
+body {
+    padding-top: 5.5rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+.carousel-inner img {
+    width: 100%;
+}
