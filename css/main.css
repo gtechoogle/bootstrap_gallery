@@ -5,5 +5,10 @@ body {
 }
 
 .carousel-inner img {
-    width: 100%;
+    margin: 0 auto;
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
 }
