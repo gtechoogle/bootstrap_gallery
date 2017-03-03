@@ -4,11 +4,11 @@ body {
     padding-right: 3rem;
 }
 
-.carousel-inner img {
-    margin: 0 auto;
-}
 
-.col-centered {
-    float: none;
+/*.carousel-inner img {
     margin: 0 auto;
+}*/
+
+.carousel-center {
+    margin: 0 auto
 }
